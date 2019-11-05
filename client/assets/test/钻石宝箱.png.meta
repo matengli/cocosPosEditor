@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3099cb7f-8e3c-4bfc-8ba1-7e185d9c3f21",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "钻石宝箱": {
+      "ver": "1.0.3",
+      "uuid": "a54ed793-8ea3-47b3-9ba0-5b04f45d07d4",
+      "rawTextureUuid": "3099cb7f-8e3c-4bfc-8ba1-7e185d9c3f21",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 147,
+      "height": 134,
+      "rawWidth": 147,
+      "rawHeight": 134,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

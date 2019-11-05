@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "3cdd9a39-d257-4cf8-8441-612b28e467b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "四星传奇宝箱 2": {
+      "ver": "1.0.3",
+      "uuid": "ae28d362-ed1f-423c-b6f8-5614243b71d3",
+      "rawTextureUuid": "3cdd9a39-d257-4cf8-8441-612b28e467b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 72,
+      "height": 70,
+      "rawWidth": 72,
+      "rawHeight": 70,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
